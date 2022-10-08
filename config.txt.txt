@@ -1,0 +1,26 @@
+{
+# 公众号配置
+# 公众号app Id
+"app_id":"wxcac844b0ec87c831",
+# 公众号appSecret
+“app_secret":"5dce49070e47860d4a53ad4975589583”，
+#模板消息id
+“tempIate_id”:uReiukHv7XKVtqt7QeeLgE2MfSQ24_taOimwjD-dViI",
+# 接受公众号小的微信号，"user":["ojhV_5756rvCWx1lnABJ9rudAa40"],
+
+#信息配置
+#和风天气apikey
+"weather_key":"b8f9cd4070c542cba3716c2beeccf619",
+# 所在地区，
+"region":"长垣市"，
+#生日1，
+"birthday1":{"name":"宝子小玉","birthday":"2000-12-22"],
+#生日2
+"birthday2":{"name":"跟班胡胡可","birthday":"2001-04-01"],
+#在一起的日子，
+"Iove_date":"2022-06-19",
+# 金句中文，
+"note_ch":"你是我的偏爱与例外"，
+# 金句英文，
+"note_ch":""
+}
